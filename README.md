@@ -10,4 +10,9 @@ Add Slyde Main View
 Add Footer in Readme file.
 
 
+<<<<<<< HEAD
 ADD Header View
+=======
+
+Add Footer View
+>>>>>>> master
