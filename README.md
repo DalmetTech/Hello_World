@@ -19,3 +19,8 @@ Add Footer View
 
 Set Header View
 
+<<<<<<< HEAD
+=======
+Add Footer View
+Set Footer View!!!!!
+>>>>>>> master
