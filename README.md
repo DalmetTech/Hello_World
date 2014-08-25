@@ -12,3 +12,4 @@ Add Footer in Readme file.
 
 
 Add Footer View
+Set Footer View!!!!!
