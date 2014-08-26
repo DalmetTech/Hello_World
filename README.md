@@ -6,9 +6,6 @@ AAAAAA Dalmet
 
 Dalmettech.com
 
-<<<<<<< HEAD
-Kkkkkkkkk
-=======
+DalmetTechProject- 
 
-CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
->>>>>>> FETCH_HEAD
+Add Header in Dalmettech.
