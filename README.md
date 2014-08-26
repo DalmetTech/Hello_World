@@ -2,14 +2,16 @@ Hello_World
 ===========
 
 Test Hello World
+AAAAAA Dalmet
 
-Add header in Readme file.
+Dalmettech.com
 
-Add Slyde Main View
+<<<<<<< HEAD
+Kkkkkkkkk
+=======
 
-Add Footer in Readme file.
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+>>>>>>> FETCH_HEAD
 
 
-
-Add Footer View
-Set Footer View!!!!!
+this is change from windows machine
