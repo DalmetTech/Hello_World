@@ -6,4 +6,9 @@ AAAAAA Dalmet
 
 Dalmettech.com
 
+<<<<<<< HEAD
 Kkkkkkkkk
+=======
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+>>>>>>> FETCH_HEAD
